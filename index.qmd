@@ -1,7 +1,5 @@
 ---
-title: "nwhybra.github.io"
+title: "Nate Whybra: Mathematics and Computation"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is currently blank!
