@@ -20,8 +20,9 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: darkly
+    default-theme: darkl
     css: styles.css
     toc: true
     math: mathjax
