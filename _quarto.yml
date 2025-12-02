@@ -22,7 +22,7 @@ format:
     theme:
       light: cosmo
       dark: darkly
-    default-theme: darkl
+    default-theme: darkly
     css: styles.css
     toc: true
     math: mathjax
