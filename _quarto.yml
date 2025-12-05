@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Nate Whybra: Mathematics and Computation"
+  title: "Nate Whybra"
   navbar:
     left:
       - href: index.qmd
