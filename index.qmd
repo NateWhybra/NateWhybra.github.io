@@ -2,6 +2,13 @@
 title: "About Me"
 ---
 
+<style>
+h1.title {
+    text-align: center;
+}
+</style>
+
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
 Hello there!
 
 My name is Nate Whybra, and I am a mathematician and computational scientist.
@@ -18,6 +25,7 @@ Examples include but are not limited to:
 - Kernel based operator machine learning.
 - Given a "smooth" painting, and the strokes the artist used, can we recover what the paint brush lookslike everywhere?
 - Precision optical surfacing.
+</div>
 
 Surprisingly, the mathematical and computational steps used to solve the above problems are
 very similar and in some cases exactly the same. I was inspired to learn more about this topic based on
