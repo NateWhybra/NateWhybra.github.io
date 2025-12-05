@@ -19,6 +19,6 @@ format:
 Let me know if you have any suggestions or questions.
 
 <div class="page-center">
-    <iframe src="resume.pdf" style="width:100%; height:1000px; border:none;">
-    </iframe>
+<iframe src="resume.pdf" style="width:100%; height:1000px; border:none;">
+</iframe>
 </div>
