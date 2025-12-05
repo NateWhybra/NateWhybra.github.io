@@ -1,0 +1,24 @@
+---
+title: "Bayesian Optimization Presentation"
+format:
+  html:
+    toc: false
+---
+
+<style>
+.page-center {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+</style>
+
+A presentation I gave alongside another mathematician, Payton Howell, during an instance of the Mathematics of
+Machine Learning Journal Club at the University of Washington in the Spring of 2025.
+
+<div class="page-center">
+<iframe src="bayesian_optimization_presentation.pdf" style="width:100%; height:1000px; border:none;">
+</iframe>
+</div>

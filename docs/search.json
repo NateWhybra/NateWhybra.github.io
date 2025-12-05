@@ -9,6 +9,13 @@
   {
     "objectID": "notes.html",
     "href": "notes.html",
+    "title": "Notes and Presentations",
+    "section": "",
+    "text": "Here are links to my notes pages:\n\nBayesian Optimization Presentation"
+  },
+  {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
     "title": "Nate Whybra",
     "section": "",
     "text": "Stay tuned!"
@@ -21,11 +28,11 @@
     "text": "Hello there!\nMy name is Nate Whybra, and I am a mathematician and computational scientist. I made this website to help me document my personal projects and to also share my thoughts about the mathematical topics I am interested in. My interests lie primarily in both the theoretical and computational aspects of solving inverse problems. What is an inverse problem? Given the effects of some process, is it possible to compute the causes? Examples include but are not limited to:\n\nDetermining an unkown filter from an input signal and an output signal.\nDeblurring a blurry image.\nMedical imaging.\nGeophysical imaging.\nSurface reconstruction from gradients or other information.\nKernel based operator machine learning.\nGiven a “smooth” painting, and the strokes the artist used, can we recover what the paint brush “looks like” everywhere?\nPrecision optical surfacing.\n\nSurprisingly, the mathematical and computational steps used to solve the above problems are very similar and in some cases exactly the same. I was inspired to learn more about this topic based on engineering work I did at Optimax Systems Inc. I am also passionate about teaching, and my hope is to someday have a lecture series about many different mathematical topics ranging from Linear Algebra, to Differential Equations, Calculus, Statistics, Real Analysis, Topology, Image Processing… because I truly believe that teaching a subject is the best way to learn and develop expertise. I have a very direct and straightforward style which I believe is helpful when students are first learning new topics. Right now this website is very bareboned, but over time expect it to grow!\nBest regards,\nNate"
   },
   {
-    "objectID": "lectures.html",
-    "href": "lectures.html",
-    "title": "Nate Whybra",
+    "objectID": "notes/bayesian_optimization_presentation.html",
+    "href": "notes/bayesian_optimization_presentation.html",
+    "title": "Bayesian Optimization Presentation",
     "section": "",
-    "text": "Stay tuned!"
+    "text": "A presentation I gave alongside another mathematician, Payton Howell, during an instance of the Mathematics of Machine Learning Journal Club at the University of Washington in the Spring of 2025."
   },
   {
     "objectID": "projects.html",

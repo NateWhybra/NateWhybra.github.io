@@ -19,5 +19,8 @@
   },
   "resume.qmd": {
     "resume.html": "0ea56120"
+  },
+  "notes/bayesian_optimization_presentation.qmd": {
+    "bayesian_optimization_presentation.html": "e7c5ae4b"
   }
 }

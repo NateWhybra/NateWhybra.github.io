@@ -1,1 +1,24 @@
-Stay tuned!
+---
+title: "Notes and Presentations"
+format:
+  html:
+    toc: false
+---
+
+<style>
+.page-center {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+</style>
+
+<div class="page-center">
+
+Here are links to my notes pages:
+
+- [Bayesian Optimization Presentation](notes/bayesian_optimization_presentation.qmd)
+
+</div>
