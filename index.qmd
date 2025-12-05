@@ -3,19 +3,16 @@ title: "About Me"
 ---
 
 <style>
-.center-body {
-  max-width: 800px;       /* Width of centered column. */
-  margin-left: auto;      /* Auto-center. */
-  margin-right: auto;     /* Auto-center. */
-  padding-left: 1rem;     /* Optional inside padding. */
-  padding-right: 1rem;    /* Optional inside padding. */
-}
-h1.title {
-  text-align: center;
+.page-center {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 </style>
 
-<div class="center-body">
+<div class="page-center">
 
 Hello there!
 
@@ -25,13 +22,13 @@ topics I am interested in. My interests lie primarily in both the theoretical an
 inverse problems. What is an inverse problem? Given the effects of some process, is it possible to compute the causes?
 Examples include but are not limited to:
 
-- Determining an unkown filter from an input signal and and output signal.
+- Determining an unkown filter from an input signal and an output signal.
 - Deblurring a blurry image.
 - Medical imaging.
 - Geophysical imaging.
 - Surface reconstruction from gradients or other information.
 - Kernel based operator machine learning.
-- Given a "smooth" painting, and the strokes the artist used, can we recover what the paint brush lookslike everywhere?
+- Given a "smooth" painting, and the strokes the artist used, can we recover what the paint brush "looks like" everywhere?
 - Precision optical surfacing.
 
 
