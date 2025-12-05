@@ -1,1 +1,25 @@
-Stay tuned!
+---
+title: "Projects"
+format:
+  html:
+    toc: false
+---
+
+<style>
+.page-center {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+</style>
+
+<div class="page-center">
+
+Here are links to my project pages:
+
+- [Gradient to Surface with Kernel Ridge Regression](projects/grad2surf_krr.qmd)
+- [Dynamic Convolutional Kernel Estimation Along A 2D Curve](projects/dynamic_conv_kernel_est_along_2dcurve.qmd)
+
+</div>

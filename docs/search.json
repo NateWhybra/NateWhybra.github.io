@@ -7,11 +7,18 @@
     "text": "Let me know if you have any suggestions or questions."
   },
   {
+    "objectID": "projects/grad2surf_krr.html",
+    "href": "projects/grad2surf_krr.html",
+    "title": "Nate Whybra",
+    "section": "",
+    "text": "Stay tuned!"
+  },
+  {
     "objectID": "notes.html",
     "href": "notes.html",
     "title": "Notes and Presentations",
     "section": "",
-    "text": "Here are links to my notes pages:\n\nBayesian Optimization Presentation"
+    "text": "Here are links to my note pages:\n\nBayesian Optimization Presentation"
   },
   {
     "objectID": "lectures.html",
@@ -35,10 +42,17 @@
     "text": "A presentation I gave alongside another mathematician, Payton Howell, during an instance of the Mathematics of Machine Learning Journal Club at the University of Washington in the Spring of 2025."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "projects/dynamic_conv_kernel_est_along_2dcurve.html",
+    "href": "projects/dynamic_conv_kernel_est_along_2dcurve.html",
     "title": "Nate Whybra",
     "section": "",
     "text": "Stay tuned!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are links to my project pages:\n\nGradient to Surface with Kernel Ridge Regression\nDynamic Convolutional Kernel Estimation Along A 2D Curve"
   }
 ]

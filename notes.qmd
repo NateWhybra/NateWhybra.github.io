@@ -17,7 +17,7 @@ format:
 
 <div class="page-center">
 
-Here are links to my notes pages:
+Here are links to my note pages:
 
 - [Bayesian Optimization Presentation](notes/bayesian_optimization_presentation.qmd)
 

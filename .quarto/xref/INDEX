@@ -22,5 +22,11 @@
   },
   "notes/bayesian_optimization_presentation.qmd": {
     "bayesian_optimization_presentation.html": "e7c5ae4b"
+  },
+  "projects/dynamic_conv_kernel_est_along_2dcurve.qmd": {
+    "dynamic_conv_kernel_est_along_2dcurve.html": "b013c592"
+  },
+  "projects/grad2surf_krr.qmd": {
+    "grad2surf_krr.html": "710923df"
   }
 }
