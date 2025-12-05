@@ -1,0 +1,8 @@
+title: "Resume"
+format:
+  html:
+    toc: false
+
+Below is my Resume. Let me know if you have any suggestions or questions.
+
+<iframe src="rseume.pdf" style="width:100%; height:1000px; border:none;"></iframe>

@@ -14,8 +14,8 @@ website:
         text: Lectures
       - href: notes.qmd
         text: Notes
-      - href: cv.qmd
-        text: CV
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:
