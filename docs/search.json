@@ -2,9 +2,9 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Nate Whybra",
+    "title": "Resume",
     "section": "",
-    "text": "Below is my Resume. Let me know if you have any suggestions or questions.\n\n&lt;iframe\n    src=\"resume.pdf\"\n    style=\"width:100%; height:1000px; border:none;\"\n&gt;&lt;/iframe&gt;"
+    "text": "Let me know if you have any suggestions or questions.\n\n&lt;iframe src=\"resume.pdf\" style=\"width:100%; height:1000px; border:none;\"&gt;\n&lt;/iframe&gt;"
   },
   {
     "objectID": "notes.html",
