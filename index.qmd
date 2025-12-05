@@ -2,15 +2,16 @@
 title: "About Me"
 ---
 
-/* Center the whole content block */
 <style>
 .center-body {
-  max-width: 800px;     /* Width of the centered column. */
-  margin: 0 auto;       /* Centers the block horizontally. */
+  max-width: 800px;       /* Width of centered column. */
+  margin-left: auto;      /* Auto-center. */
+  margin-right: auto;     /* Auto-center. */
+  padding-left: 1rem;     /* Optional inside padding. */
+  padding-right: 1rem;    /* Optional inside padding. */
 }
-
 h1.title {
-  text-align: center;   /* optional — center the title */
+  text-align: center;
 }
 </style>
 
@@ -43,6 +44,7 @@ the best way to learn and develop expertise. I have a very direct and straighfor
 when students are first learning new topics. Right now this website is very bareboned, but over time expect it to grow!
 
 Best regards,
+
 Nate
 
 </div>
