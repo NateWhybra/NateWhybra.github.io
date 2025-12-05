@@ -1,8 +1,15 @@
-title: "Resume"
-format:
-  html:
-    toc: false
-
 Below is my Resume. Let me know if you have any suggestions or questions.
 
-<iframe src="rseume.pdf" style="width:100%; height:1000px; border:none;"></iframe>
+<div style="
+    max-width: 850px;        /* Controls resume width. */
+    margin: 0 auto;          /* Centers it horizontally. */
+    padding: 20px;           /* Space between PDF and border. */
+    border: 2px solid #ccc;  /* Border color. */
+    border-radius: 8px;      /* Rounded corners. */
+    background: white;       /* Make it stand out in dark mode. */
+">
+    <iframe
+        src="resume.pdf"
+        style="width:100%; height:1000px; border:none;"
+    ></iframe>
+</div>
