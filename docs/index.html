@@ -175,12 +175,18 @@ window.Quarto = {
 </header>
 
 
+/* Center the whole content block */
 <style>
+.center-body {
+  max-width: 800px;     /* Width of the centered column. */
+  margin: 0 auto;       /* Centers the block horizontally. */
+}
+
 h1.title {
-    text-align: center;
+  text-align: center;   /* optional — center the title */
 }
 </style>
-<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+<div class="center-body">
 <p>Hello there!</p>
 <p>My name is Nate Whybra, and I am a mathematician and computational scientist. I made this website to help me document my personal projects and to also share my thoughts about the mathematical topics I am interested in. My interests lie primarily in both the theoretical and computational aspects of solving inverse problems. What is an inverse problem? Given the effects of some process, is it possible to compute the causes? Examples include but are not limited to:</p>
 <ul>
@@ -193,9 +199,9 @@ h1.title {
 <li>Given a “smooth” painting, and the strokes the artist used, can we recover what the paint brush lookslike everywhere?</li>
 <li>Precision optical surfacing.</li>
 </ul>
-</div>
 <p>Surprisingly, the mathematical and computational steps used to solve the above problems are very similar and in some cases exactly the same. I was inspired to learn more about this topic based on engineering work I did at Optimax Systems Inc.&nbsp;I am also passionate about teaching, and my hope is to someday have a lecture series about many different mathematical topics ranging from Linear Algebra, to Differential Equations, Calculus, Statistics, Real Analysis, Topology, Image Processing… because I truly believe that teaching a subject is the best way to learn and develop expertise. I have a very direct and straighforward style which I believe is helpful when students are first learning new topics. Right now this website is very bareboned, but over time expect it to grow!</p>
 <p>Best regards, Nate</p>
+</div>
 
 
 
